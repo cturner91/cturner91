@@ -4,11 +4,11 @@ Pragmatic, not perfect. Delivery-focused.
 
 This GitHub is very much a work in-progress. I'm hoping to contribute more to it over time.
 
-## Key Skills: 
+**Key Skills**:
 
 Python, Django, SQL (Postgres and SQL Server), Matlab, Excel & VBA, Vanilla HTML / CSS, JavaScript, AWS, Docker, Kubernetes, Bash scripting, Kotlin, Kafka, Protobuf, React.
 
-## Example projects:
+**Example projects**:
 
 **React & DRF API**: [Famous-Quotes.uk](www.famous-quotes.uk)
 
