@@ -10,7 +10,7 @@ Python, Django, SQL (Postgres and SQL Server), Matlab, Excel & VBA, Vanilla HTML
 
 **Example projects**:
 
-**React & DRF API**: [Famous-Quotes.uk](www.famous-quotes.uk)
+**React & DRF API**: [Famous-Quotes.uk](https://famous-quotes.uk)
 
 **High-performance Python**: [IndexedList](https://github.com/cturner91/IndexedList)
 
