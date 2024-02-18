@@ -6,13 +6,14 @@ This GitHub is very much a work in-progress. I'm hoping to contribute more to it
 
 **Key Skills**:
 
-Python, Django, SQL (Postgres and SQL Server), Matlab, Excel & VBA, Vanilla HTML / CSS, JavaScript, AWS, Docker, Kubernetes, Bash scripting, Kotlin, Kafka, Protobuf, React.
+Python, Django & DRF, SQL (Postgres and SQL Server), Git, Kafka, Protobuf, AWS (EC2, ECS, SQS), Docker, Kubernetes, Bash scripting, Vanilla HTML / CSS, JavaScript, Matlab, Excel & VBA, React.
 
 **Example projects**:
 
-**React & DRF API**: [Famous-Quotes.uk](https://famous-quotes.uk)
+**Django Observability Framework**: [django_db_o11y](https://github.com/cturner91/django_db_o11y)
 
 **High-performance Python**: [IndexedList](https://github.com/cturner91/IndexedList)
 
+**Full-stack Development**: [Blues Lax](https://github.com/cturner91/blues-lax)
 
-If interested, I used to blog at: [www.ctsoftware.co.uk](www.ctsoftware.co.uk). The website currently needs a touch-up, I am very aware.
+If interested, I host a number of blogs at: [www.ctsoftware.co.uk](www.ctsoftware.co.uk), including widgets on topics such as [mortgage payments](https://www.ctsoftware.co.uk/blogs/mortgage-calculator/), [UK income taxes](https://www.ctsoftware.co.uk/blogs/uk-tax-calculator/), and [Fantasy Premier League](https://www.ctsoftware.co.uk/blogs/fpl-league-analyzer/)
